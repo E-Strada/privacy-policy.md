@@ -1,2 +1,2 @@
 # privacy-policy.md
-Privacy policy for Browsing Vault Chrome extension.
+Privacy policy for Bookmark Lock extension.
